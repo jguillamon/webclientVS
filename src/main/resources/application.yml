@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+urlSlowService: http://localhost:8081/slow-service-tweets
+baseUrlOms: https://oms-stock-api-dev.supply-chain-dev-eslm.tech.adeo.cloud
